@@ -1,6 +1,6 @@
 # Tribal Land Checker
 
-**Tribal Land Checker** is a Python tool designed to identify whether properties in the United States are located on federally recognized Tribal lands. It uses address geocoding and official Tribal land boundary data from the Bureau of Indian Affairs (BIA) or Census TIGER/Line files.
+**Tribal Land Checker** is a Python tool designed to identify whether properties in the United States are located on federally recognized Tribal lands. It uses address geocoding and official Tribal land boundary data from the Bureau of Indian Affairs (BIA) or Census TIGER/Line files. This tool was created in response to a real business need to identify and categorize real estate properties that are located on federally identified tribal land. The results are meant to be used to be inline with compliance during a bank aquisition transition. 
 
 ---
 
